@@ -24,5 +24,8 @@
     "concurrently": "^8.2.2",
     "vite": "^5.1.4",
     "vite-plugin-pwa": "^0.19.2"
+  },
+  "engines": {
+    "node": ">=20.0.0"
   }
 }
